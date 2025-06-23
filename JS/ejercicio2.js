@@ -30,7 +30,7 @@ document.writeln(`Cantidad de ciudades: ${ciudades.length} <br>`)
 if (ciudades.length > 0){
     document.writeln(`La primera ciudad es: ${ciudades[0]} <br>`)
 } else {
-    document.writeln("No ingresaste ninguna ciudad 🤨")
+    document.writeln("No ingresaste ninguna ciudad 🤨<br>")
 }
 if (ciudades.length>2){
     document.writeln(`La tercera ciudad es: ${ciudades[2]} <br>`)
